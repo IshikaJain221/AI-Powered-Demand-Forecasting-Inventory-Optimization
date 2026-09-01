@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Demand Forecasting & Inventory Optimization
 
 Phase 1 scaffold: data ingestion + multi-model forecasting engine (XGBoost, Prophet, LSTM)
@@ -63,3 +64,6 @@ backend phase, swap the matching function in `frontend/lib/mockData.js` for a re
 4. What-If Simulator + Counterfactual Inventory Engine
 5. Explainability, risk scoring, AI copilot
 6. Decision feedback learning + backtesting
+=======
+# AI-Powered-Demand-Forecasting-Inventory-Optimization
+>>>>>>> a664b3b2597ecc5238b7e50ff3b7ef14abcd2e2f
