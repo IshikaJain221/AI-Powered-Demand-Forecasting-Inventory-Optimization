@@ -64,3 +64,6 @@ backend phase, swap the matching function in `frontend/lib/mockData.js` for a re
 4. What-If Simulator + Counterfactual Inventory Engine
 5. Explainability, risk scoring, AI copilot
 6. Decision feedback learning + backtesting
+
+
+BY ISHIKA JAIN
