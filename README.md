@@ -65,5 +65,5 @@ backend phase, swap the matching function in `frontend/lib/mockData.js` for a re
 5. Explainability, risk scoring, AI copilot
 6. Decision feedback learning + backtesting
 
-
+AUTHOR DETAILS:
 BY ISHIKA JAIN
