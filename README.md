@@ -1,4 +1,4 @@
-
+ 
 # Demand Forecasting & Inventory Optimization
 
 Phase 1 scaffold: data ingestion + multi-model forecasting engine (XGBoost, Prophet, LSTM)
