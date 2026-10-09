@@ -6,7 +6,7 @@ copilot) build on top of this.
 
 ## Stack
 - Backend: FastAPI + SQLAlchemy + Postgres
-- Forecasting: XGBoost, Prophet, PyTorch (LSTM)
+- Forecasting: XGBoost, Prophet, PyTorch (LSTM) 
 - Frontend: Next.js (scaffold only for now — build out after backend is solid)
 
 ## Getting the dataset
