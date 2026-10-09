@@ -3,7 +3,7 @@
 Phase 1 scaffold: data ingestion + multi-model forecasting engine (XGBoost, Prophet, LSTM)
 with automatic per-SKU model selection. Later phases (fingerprinting, memory, simulator,
 copilot) build on top of this.
-
+ 
 ## Stack    
 - Backend: FastAPI + SQLAlchemy + Postgres
 - Forecasting: XGBoost, Prophet, PyTorch (LSTM)   
