@@ -8,7 +8,7 @@ copilot) build on top of this.
 - Backend: FastAPI + SQLAlchemy + Postgres
 - Forecasting: XGBoost, Prophet, PyTorch (LSTM)   
 - Frontend: Next.js (scaffold only for now — build out after backend is solid)   
-
+   
 ## Getting the dataset
 
 This scaffold is built around the **M5 Forecasting - Accuracy** dataset (Walmart, ~30k SKUs,
